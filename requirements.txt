@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+xgboost
+nltk
+vaderSentiment
+transformers
+torch
+yfinance
+beautifulsoup4
+requests
+matplotlib
+seaborn
+pyarrow
+backtrader    # optional, or you can use custom backtest code
+shap
