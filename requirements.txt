@@ -13,5 +13,5 @@ requests
 matplotlib
 seaborn
 pyarrow
-backtrader    # optional, or you can use custom backtest code
+backtrader
 shap
